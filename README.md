@@ -1,5 +1,5 @@
 # Suggestion-Mining-Lmote
-This repository is the implemention of the research paper [A Multi-task Approach to Open Domain Suggestion Mining](https://aaai.org/Papers/AAAI/2020GB/SA-JainM.408.pdf) - Minni Jain, Maitree Leekha∗, Mononito Goswami 
+This repository is the implemention of the research paper [A Multi-task Approach to Open Domain Suggestion Mining](https://aaai.org/Papers/AAAI/2020GB/SA-JainM.408.pdf) - Minni Jain, Maitree Leekha, Mononito Goswami 
 
 ## Results
 The training data is obtained from [SemEval 2019 Task 9 - SubTask A](https://competitions.codalab.org/competitions/19955)
