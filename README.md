@@ -6,10 +6,10 @@ The training data is obtained from [SemEval 2019 Task 9 - SubTask A](https://com
 The imbalance in the training data is handled using LMOTE and SMOTE techniques.
 
 ### Ensemble Classifier
-Ensemble Classifier consists:
+Ensemble Classifier consists of:
 1. A CNN Classifier
-2. LSTM Classifier with attention
-3. BILSTM based text RCNN classifier
+2. A LSTM Classifier with attention
+3. A BILSTM based text RCNN classifier
 
 <p align="center"><img src="https://github.com/shubhamk0027/Suggestion-Mining-Lmote/blob/master/Model%20Ensemble_Classifier.png"></p>
 
